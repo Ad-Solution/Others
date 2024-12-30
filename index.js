@@ -2,13 +2,13 @@
 const otherItemsData = [
     {
         id: 1,
-        name: 'Bicycle',
-        category: 'Sports',
-        price: 8000,
-        location: 'Colombo',
+        name: '',
+        category: '',
+        price: ,
+        location: '',
         images: ['img2.jpg', 'img2.jpg', 'img2.jpg'],
-        postedDate: '2023-05-01',
-        description: 'A high-quality bicycle suitable for city commuting and mountain biking. Barely used and in excellent condition.'
+        postedDate: '',
+        description: ''
     },
     // Add more items here
 ];
